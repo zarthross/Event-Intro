@@ -10,6 +10,9 @@ Thunder Plains
 StarSpace46 
 * The event Center is donated by StarSpace46. If you like them and want them to stick around, get a $40 community membership.
 
+36 Degrees North
+* 36 Degrees North donates this space for us to meet. They also offer free workshops as well as coworking, desks and offices for a monthly fee. You can find more info at the front desk. 
+
 Annual Campaign
 * The campaign has started. We don't auto-deduct so if you'd like to give or give again, please visit techlahoma.org. 
 
