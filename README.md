@@ -19,6 +19,9 @@ StarSpace46
 * 36 Degrees North donates this space for us to meet. They also offer free workshops as well as coworking, desks and offices for a monthly fee. You can find more info at the front desk. 
 
 Annual Campaign
+
+(Please open this link and show it on the screen <https://donate.techlahoma.org/membership>)
+
 * The campaign has started. We don't auto-deduct so if you'd like to give or give again, please visit techlahoma.org. 
 
 This usergroup is streamed on Twitch.tv
