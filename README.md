@@ -2,7 +2,7 @@
 
 (Organizer note: lines in parens are stage directions)
 
-Thanks for joining us today. We're here thanks to volunteers, speakers, and Techlahoma. 
+Thank you for joining us today. We are here thanks to Techlahoma, our volunteers, and our speakers.
 
 # (What is Techlahoma?)
 Techlahoma is a non-profit volunteer-run organization that puts on 33 groups, 2 conferences, and sponsors free local events. We do all this to support the grassroots tech community of Oklahoma. Learn more at techlahoma.org
@@ -29,3 +29,6 @@ If you like this meetup and what we do here, please consider becoming a Techlaho
 This usergroup is streamed on Twitch.tv
 
 We've been streaming almost all of our OKC based usergroups in Twitch.tv/techlahoma - Be sure to check it out & if you have Amazon Prime you can subscribe to our channel. If you subscribe to our channel, Techlahoma gets a small donation from Amazon!
+
+# (Food Sponsor: Read if relevant)
+And Finally thank you to our food sponsor *(Insert food sponsor name here)*
