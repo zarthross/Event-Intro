@@ -8,7 +8,7 @@ Thank you for joining us today. We are here thanks to Techlahoma, our volunteers
 Techlahoma is a non-profit volunteer-run organization that puts on 33 groups, 2 conferences, and sponsors free local events. We do all this to support the grassroots tech community of Oklahoma. Learn more at techlahoma.org
 
 # (200OK.us)
-The annual 200OK conference is happening on May 18th. Call for Sponsors AND call for papers is open. If your company wants to advertise at 200OK *and* support Techlahoma, you can find more info at 200ok.us and clicking 'sponsors'
+The annual 200OK conference is happening on May 18th. Call for Sponsors is open. If your company wants to advertise at 200OK *and* support Techlahoma, you can find more info at 200ok.us and clicking 'sponsors'
 
 # (StarSpace46: Read if at StarSpace46 only)
 This event Center is donated by StarSpace46. If you like them and want them to stick around, get a $40 community membership.
